@@ -1,0 +1,13 @@
+.bg-primary {
+    background-color: blue;
+}
+
+section {
+    background-color: palevioletred;
+}
+
+section:nth-child(2+1){
+    background-color: purple;
+    color: grey;
+    font-weight: normal;
+}
